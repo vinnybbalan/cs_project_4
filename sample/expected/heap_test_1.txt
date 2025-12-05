@@ -1,0 +1,16 @@
+Heap contents: (3,4.96) 
+Heap contents: (3,5.71) 
+Heap contents: (3,5.71) (8,9.27) 
+Heap contents: (3,5.71) (8,9.27) (6,12.86) 
+Heap contents: (8,9.27) (6,12.86) 
+Heap contents: (6,12.86) 
+Heap contents: (6,12.86) 
+Heap contents: 
+Heap empty
+Heap contents: 
+Heap contents: (5,10.12) 
+Heap contents: (5,10.12) 
+Heap contents: (5,5.24) 
+Heap contents: (5,5.24) 
+Heap contents: (5,5.24) 
+Heap contents: (5,5.24) 
