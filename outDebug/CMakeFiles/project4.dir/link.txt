@@ -1,0 +1,2 @@
+/usr/bin/ar qc libproject4.a CMakeFiles/project4.dir/src/csp_app.cpp.o CMakeFiles/project4.dir/src/heap_app.cpp.o
+/usr/bin/ranlib libproject4.a

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/csp-app.dir/src/csp_app.cpp.o" -o csp-app  libproject4.a
